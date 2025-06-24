@@ -36,7 +36,7 @@ src/
 validation-data/  
 ├── block_images/ # Block evaluation images generated with the [Ravens simulator](https://github.com/google-research/ravens)  
 ├── hamster_eval_images/ # Hamster task images  
-├── block_eval_final_final.csv # Metadata and instructions for block tasks  
+├── block_eval.csv # Metadata and instructions for block tasks  
 ├── hamster_eval.csv # Metadata and instructions for hamster tasks  
 ├── vlm_dev_100.csv # Validation set for VLM evaluation (Places data)  
 

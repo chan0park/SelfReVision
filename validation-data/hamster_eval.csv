@@ -1,0 +1,13 @@
+Scene,User_Input,Image_Path
+kitchen,make a cup of tea,YOUR_PATH/hamster_eval_images/kitchen_make_cup_tea.jpg
+kitchen,clean the counter,YOUR_PATH/hamster_eval_images/kitchen_clean_the_counter.jpg
+kitchen,clean the counter,YOUR_PATH/hamster_eval_images/kitchen_clean_the_counter2.jpg
+kitchen,clean the bowl,YOUR_PATH/hamster_eval_images/kitchen_clean_the_bowl.jpg
+kitchen,clean the bowl,YOUR_PATH/hamster_eval_images/kitchen_clean_the_bowl2.jpg
+kitchen,pack a lunch,YOUR_PATH/hamster_eval_images/kitchen_pack_a_lunch.jpg
+workshop,clean the table,YOUR_PATH/hamster_eval_images/workshop_clean_the_table.jpg
+workshop,hammer the nail in the wood,YOUR_PATH/hamster_eval_images/workshop_hammer_the_nail.jpg
+workshop,charge the phone,YOUR_PATH/hamster_eval_images/workshop_charge_the_phone.jpg
+workshop,water the plant,YOUR_PATH/hamster_eval_images/workshop_water_the_plant.jpg
+floor,clean up the trash into the right bins,YOUR_PATH/hamster_eval_images/trash_clean_the_trash.jpg
+kitchen,pack a kids toy bag,YOUR_PATH/hamster_eval_images/kitchen_pack_kids_toys.jpg
