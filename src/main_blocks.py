@@ -114,7 +114,7 @@ RESULTS_DIR = os.path.join(args.output_dir+f"{DATA_PATH_STR}--{MODEL_NAME.replac
 os.makedirs(RESULTS_DIR, exist_ok=True)
 os.makedirs(RESULTS_DIR+"/json_format", exist_ok=True)
 
-access_token = "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"
+access_token = "YOUR_HF_KEY"
 
 # Set device
 device = "cuda" if torch.cuda.is_available() else "cpu"
