@@ -4,7 +4,7 @@
 
 This codebase supports experiments from our paper:
 
-> _"Making VLMs More Robot-Friendly: Self-Critical Distillation of Low-Level Procedural Reasoning"_ 
+> _["Making VLMs More Robot-Friendly: Self-Critical Distillation of Low-Level Procedural Reasoning (arXiv 2025)"](https://arxiv.org/abs/2507.08224)_ 
 
 ---
 
@@ -47,4 +47,15 @@ A larger subset of the Places dataset with GPT-4o-generated plans is available a
 
 ## Citation
 
-If you use this code or dataset, please cite: [Paper link to be added]
+If you use this code or dataset, please cite: 
+```
+@misc{park2025makingvlmsrobotfriendlyselfcritical,
+      title={Making VLMs More Robot-Friendly: Self-Critical Distillation of Low-Level Procedural Reasoning}, 
+      author={Chan Young Park and Jillian Fisher and Marius Memmel and Dipika Khullar and Andy Yun and Abhishek Gupta and Yejin Choi},
+      year={2025},
+      eprint={2507.08224},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2507.08224}, 
+}
+```
